@@ -1,0 +1,22 @@
+image{
+    border-style: solid;
+}
+
+.Container{
+    border-style:solid;
+    width: 300px;
+}
+    
+
+.header{
+    height:200px;
+    background-color:lightskyblue;
+}
+ 
+#aboutus{
+    border-style: solid;
+
+}
+.span{
+    border-style:solid;
+}
