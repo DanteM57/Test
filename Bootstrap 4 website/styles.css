@@ -8,6 +8,17 @@ html, body{
 
 }
 .footer{
-    height:450px;
+    height:350px;
 }
 
+.jumbotron{
+    padding:1rem;
+    border-radius: 0;
+}
+.welcome{
+    width: 75%
+}
+.welcome hr{
+    border-top: 2px soild #b4b4b4;
+    width:95%
+}
